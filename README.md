@@ -6,7 +6,7 @@ Requirements:
 - Unreal engine 4.27.2
 
 How to play?
-- Clone the repository
+- Clone the repository or download the zip
 - Run InfiniteMatrix.uproject
 - Gl hf
 
