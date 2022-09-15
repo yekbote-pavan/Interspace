@@ -1,5 +1,5 @@
 # Interspace
- A space journey: Get immersed in a matrix style tunnel and have fun beating the high score!
+ A space journey: A free to play immersive experience through the vast cosmos
 
 Requirements:
 - Epic games launcher
